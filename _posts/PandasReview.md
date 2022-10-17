@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Pandas Review Myself"
+---
+
 Pandas와 Numpy의 차이는 표 하나에 넣을 수 있는 데이터의 종류가 Numpy는 한 종류밖에 안된다는것이다.     
     
     스칼라 in pandas is 단일 값(single value)
