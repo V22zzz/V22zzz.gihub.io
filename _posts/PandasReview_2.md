@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "Pandas review_2"
