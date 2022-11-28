@@ -1,3 +1,12 @@
+
+
+---
+layout: post
+title:  "Pandas review_2"
+---
+
+# Pandas review_2
+    
     준비: Pandas import
 
 
